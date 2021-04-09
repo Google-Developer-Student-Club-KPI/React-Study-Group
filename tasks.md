@@ -35,7 +35,7 @@
 - Наш особистий фаворит по платіжним системам
 [<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://github.com/muhammed/vue-interactive-paycard)
 
-- Сторінка-вітрина або повноцінний блог.
+- Сторінка-вітрина або лендинг-пейдж блогера
 [<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP)
 
 ---
