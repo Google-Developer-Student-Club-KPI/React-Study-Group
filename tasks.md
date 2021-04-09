@@ -22,3 +22,20 @@
 - Яскравий макет чату
   [<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY)
 ---
+## Junior
+- Простий макет ціноутворення
+  [<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8)
+
+- Сторінка для краудфандингу
+[<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
+
+- Ціновий компонент платної підписки
+[<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
+
+- Наш особистий фаворит по платіжним системам
+[<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://github.com/muhammed/vue-interactive-paycard)
+
+- Сторінка-вітрина або повноцінний блог.
+[<img align="top" width="22px" height="22px" src="https://raw.githubusercontent.com/thank1ess/icons/master/link/5.png" />](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP)
+
+---
